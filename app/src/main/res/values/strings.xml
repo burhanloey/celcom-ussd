@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celcom USSD</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="buy">Buy</string>
+    <string name="reload_w_pin">Reload with PIN</string>
+    <string name="enter_pin_code">Enter 16-digits PIN code</string>
+    <string name="reload">Reload</string>
+    <string name="cancel">Cancel</string>
+</resources>
